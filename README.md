@@ -4,12 +4,6 @@
 
 <p align="left">My name is Alexander. I'm a  beginner web developer and I really like what I do.<br><br>My pet-project is https://cinema.webcloudlab.ru<br><br>user side: user@cinema.ru / password<br><br>admin side: support@cinema.ru /<br>password<br><br>Here I practice and apply the acquired development knowledge =)</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left"></p>
 
 ###
