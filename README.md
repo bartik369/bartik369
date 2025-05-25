@@ -5,12 +5,12 @@
 <p align="left">
     My name is Alexander. I'm a web developer and I really like doing it.
     <br>
-    <br>My pet-project is: <br>
+    <br>My pet-projects are I'm working on: <br>
     https://cinema.webcloudlab.ru
     <br>user side: user@cinema.ru / password<br>
     admin side: support@cinema.ru / password
     <br>React, TypeScript, Redux, Express, MongoDB,<br>
-    --------------------------------------------------
+    <br>--------------------------------------------------<br>
     https://warehouse.webcloudlab.ru
     <br>React, TypeScript, Redux, Nest, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
     <br>Here I practice and apply the acquired development knowledge =)<br></p>
