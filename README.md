@@ -1,8 +1,19 @@
-<h1 align="left">Hello, everyone!</h1>
+ <h1 align="left">Hello, everyone!</h1>
 
 ###
 
-<p align="left">My name is Alexander. I'm a web developer and I really like doing it.<br><br>My pet-project is https://cinema.webcloudlab.ru<br><br>user side: user@cinema.ru / password<br>admin side: support@cinema.ru / password<br><br>Here I practice and apply the acquired development knowledge =)<br></p>
+<p align="left">
+    My name is Alexander. I'm a web developer and I really like doing it.
+    <br>
+    <br>My pet-project is: <br>
+    https://cinema.webcloudlab.ru
+    <br>user side: user@cinema.ru / password<br>
+    admin side: support@cinema.ru / password
+    <br>React, TypeScript, Redux, Express, MongoDB,<br>
+    --------------------------------------------------
+    https://warehouse.webcloudlab.ru
+    <br>React, TypeScript, Redux, Nest, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
+    <br>Here I practice and apply the acquired development knowledge =)<br></p>
 
 <p align="left"></p>
 
