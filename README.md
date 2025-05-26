@@ -11,7 +11,7 @@
     admin side: support@cinema.ru / password
     <br>React, TypeScript, Redux, Express, MongoDB<br>
     --------------------------------------------------
-    <br>https://warehouse.webcloudlab.ru<br>
+    <br>https://itam.webcloudlab.ru<br>
     React, TypeScript, Redux, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR
     <p>Here I practice and apply the acquired development knowledge =)<p></p>
 
