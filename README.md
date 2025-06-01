@@ -12,7 +12,7 @@
     <br>React, TypeScript, Redux, Express, MongoDB<br>
     --------------------------------------------------
     <br>https://itam.webcloudlab.ru<br>
-    user side: admin@domain.ru / password
+    admin@domain.ru / password
     <br>React, TypeScript, Redux, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<b></b>
     <p>Here I practice and apply the acquired development knowledge =)<p></p>
 
