@@ -12,7 +12,8 @@
     <br>React, TypeScript, Redux, Express, MongoDB<br>
     --------------------------------------------------
     <br>https://itam.webcloudlab.ru<br>
-    React, TypeScript, Redux, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR
+    user side: admin@domain.ru / password
+    <br>React, TypeScript, Redux, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<b></b>
     <p>Here I practice and apply the acquired development knowledge =)<p></p>
 
 <p align="left"></p>
