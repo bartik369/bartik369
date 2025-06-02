@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-    My name is Alexander. I'm a web developer and I really like doing it.
+    I’m Alexander, a web dev who’s genuinely into this stuff.
     <br>
     <br>My pet-projects are I'm working on: <br>
     https://cinema.webcloudlab.ru
