@@ -13,7 +13,7 @@
     --------------------------------------------------
     <br>https://itam.webcloudlab.ru<br>
     admin@domain.ru / password
-    <br>React, TypeScript, Redux, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
+    <br>React, TypeScript, Redux, Ant Design,  NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
     --------------------------------------------------
      <br>https://bartik369.github.io/graphql-tanstack-styled/todos<br>
      TanStack Query, GraphQL, Styled Components, Ant Design - Just practicing with open API`s
