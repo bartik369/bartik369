@@ -6,15 +6,16 @@
     I’m Alexander, a web dev who’s genuinely into this stuff.
     <br>
     <br>My pet-projects are I'm working on: <br>
+  <br>https://itam.webcloudlab.ru<br>
+    admin@domain.ru / password
+    <br>React, TypeScript, Redux, Ant Design,  NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
+    </p>
+   --------------------------------------------------
+    <br>https://itam.webcloudlab.ru<br>
     https://cinema.webcloudlab.ru
     <br>user side: user@cinema.ru / password<br>
     admin side: support@cinema.ru / password
     <br>React, TypeScript, Redux, Express, MongoDB<br>
-    --------------------------------------------------
-    <br>https://itam.webcloudlab.ru<br>
-    admin@domain.ru / password
-    <br>React, TypeScript, Redux, Ant Design,  NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
-    </p>
 
 <p align="left"></p>
 
