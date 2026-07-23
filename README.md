@@ -11,7 +11,6 @@
     <br>React, TypeScript, Redux, Ant Design,  NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
     </p>
    --------------------------------------------------
-    <br>https://itam.webcloudlab.ru<br>
     https://cinema.webcloudlab.ru
     <br>user side: user@cinema.ru / password<br>
     admin side: support@cinema.ru / password
