@@ -8,7 +8,7 @@
     <br>My pet-projects are I'm working on: <br>
   <br>https://itam.shouldwork.tech<br>
     admin@domain.ru / password
-    <br>React, TypeScript, Redux, Ant Design,  NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
+    <br>React, TypeScript, Redux, Ant Design, RHF, NestJS, Prisma, PostgreSQL. CI/CD with Docker + GHCR<br>
     </p>
    --------------------------------------------------
     </p>
