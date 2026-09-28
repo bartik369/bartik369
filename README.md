@@ -44,10 +44,6 @@
    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/prisma/prisma-original.svg" height="40" alt="mongodb logo"  />
    <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg" height="48" alt="docker logo"  />
-   <img width="12" />
-   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/debian/debian-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
 </div>
 
 ###
